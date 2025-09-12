@@ -28,8 +28,10 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 Open Source AI Research & Mentorship
 {: .fs-6 .fw-300 }
 
-[Get started now](https://github.com/LucknowAI){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0
-.mr-2 } [Join Lucknow AI Labs](https://chat.whatsapp.com/IAM2fp4IoLiGbuI6ZeNfzH){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+[Get started now](https://github.com/LucknowAI){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0.mr-2 }  
+[Join Lucknow AI Labs](https://chat.whatsapp.com/IAM2fp4IoLiGbuI6ZeNfzH){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Try Nawab-AI](#){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 
 <div style="text-align: left;">
@@ -39,9 +41,6 @@ Open Source AI Research & Mentorship
         </a>
         <a href="https://discord.gg/QKw67PDZUm" title="Discord" style="text-decoration: none;">
             <img src="/assets/icons/discord.png" alt="Discord" width="30" height="30"/>
-        </a>
-        <a href="YOUR_FACEBOOK_PROFILE_URL" title="Facebook" style="text-decoration: none;">
-            <img src="/assets/icons/facebook.png" alt="Facebook" width="30" height="30"/>
         </a>
         <a href="https://www.instagram.com/lucknow_ai/" title="Instagram" style="text-decoration: none;">
             <img src="/assets/icons/insta.png" alt="Instagram" width="30" height="30"/>
@@ -101,7 +100,7 @@ contributor in [our GitHub repo](https://github.com/LucknowAI).
 
 Lucknow AI is committed to fostering a welcoming community.
 
-[View our Code of Conduct](https://github.com/LucknowAI) on our GitHub repository.
+[View our Code of Conduct](/code-of-conduct/) on our GitHub repository.
 
 <div style="text-align: center; margin-top: -10px;">
     <img src="/assets/images/lucknow_illustration.f2f78acc.png" alt="Lucknow AI Community" width="600" height="200" title="Lucknow AI Community"/>
